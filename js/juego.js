@@ -78,18 +78,6 @@ var Juego = {
       desdeY: 0,
       hastaY: 577
     }),
-    new ZombieCaminante('imagenes/zombie1.png', 100, 150, 10, 10, 1, {
-      desdeX: 0,
-      hastaX: 961,
-      desdeY: 0,
-      hastaY: 577
-    }),
-    new ZombieCaminante('imagenes/zombie2.png', 300, 200, 10, 10, 1, {
-      desdeX: 0,
-      hastaX: 961,
-      desdeY: 0,
-      hastaY: 577
-    }),
     new ZombieCaminante('imagenes/zombie3.png', 100, 300, 10, 10, 1, {
       desdeX: 0,
       hastaX: 961,
@@ -97,18 +85,6 @@ var Juego = {
       hastaY: 577
     }),
     new ZombieCaminante('imagenes/zombie4.png', 500, 400, 10, 10, 1, {
-      desdeX: 0,
-      hastaX: 961,
-      desdeY: 0,
-      hastaY: 577
-    }),
-    new ZombieCaminante('imagenes/zombie2.png', 700, 200, 10, 10, 1, {
-      desdeX: 0,
-      hastaX: 961,
-      desdeY: 0,
-      hastaY: 577
-    }),
-    new ZombieCaminante('imagenes/zombie3.png', 800, 300, 10, 10, 1, {
       desdeX: 0,
       hastaX: 961,
       desdeY: 0,
