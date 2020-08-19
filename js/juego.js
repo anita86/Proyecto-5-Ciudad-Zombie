@@ -12,6 +12,7 @@ var Juego = {
   // Indica si el jugador gano
   ganador: false,
 
+  
   obstaculosCarretera: [
     /*Aca se van a agregar los obstaculos visibles. Tenemos una valla horizontal de ejemplo, pero podras agregar muchos mas. */
     new Obstaculo('imagenes/valla_horizontal.png', 130, 100, 30, 30, 1),
